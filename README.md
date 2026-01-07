@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Chris! 👋
 
 <!--
 **CIJones96/CIJones96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Integration Engineer | C# & React.js
+
+### About Me
+- 🔧 Integrations experience (Axway, API Gateways, ServiceNow)
+- 💻 Full stack development with React.js and C#
+- 📊 Passionate about: Data Science, Machine Learning, Quantitative Finance
+- 🎯 Currently learning: ML algorithms, statistical modeling, Python for data analysis
+
+### Current Focus
+- IBM Data Science Professional Certificate
+- AWS Cloud Practitioner
+
+### Tech Stack
+`Python` `React.js` `C#` `Pandas` `NumPy` `Scikit-learn` `SQL` `Git`
+
+📫 Interested in data-driven problem solving
