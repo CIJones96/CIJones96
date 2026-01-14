@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Integration Engineer | C# & React.js
+Software Engineer | C# & React.js
 
 ### About Me
 - 🔧 Integrations experience (Axway, API Gateways, ServiceNow)
