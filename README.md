@@ -31,6 +31,6 @@ Building web applications for enterprise and public sector clients
 - Building data analysis projects to strengthen Python skills
 
 ### Tech Stack
-`JavaScript`  `React.js` `C#` `SQL` `AWS` `Git` | Learning: `Python` `Pandas` `NumPy` `Scikit-learn`
+`JavaScript`  `React.js` `C#` `SQL` `AWS` `Git` | **Learning**: `Python` `Pandas` `NumPy` `Scikit-learn`
 
 📫 Open to connecting with other developers interested in data-driven development
