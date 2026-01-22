@@ -16,18 +16,21 @@ Here are some ideas to get you started:
 -->
 
 Application Developer | C# & React.js
+Building web applications for enterprise and public sector clients
 
 ### About Me
+- 💼 4+ years professional experience (IBM, NHS, defense clients)
+- 💻 Full stack development with ReactJS, C#, and AWS
 - 🔧 Integrations experience (Axway, API Gateways, ServiceNow)
-- 💻 Full stack development with ReactJS
 - 📊 Passionate about: Data Science, Machine Learning, Quantitative Finance
 - 🎯 Currently learning: ML algorithms, statistical modeling, Python for data analysis
 
 ### Current Focus
 - IBM Data Science Professional Certificate
 - AWS Cloud Practitioner
+- Building data analysis projects to strengthen Python skills
 
 ### Tech Stack
-`Python` `React.js` `Pandas` `NumPy` `Scikit-learn` `SQL` `Git`
+`JavaScript`  `React.js` `C#` `SQL` `AWS` `Git` | Learning: `Python` `Pandas` `NumPy` `Scikit-learn`
 
-📫 Interested in data-driven problem solving
+📫 Open to connecting with other developers interested in data-driven development
