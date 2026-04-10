@@ -27,10 +27,16 @@ Building web applications for enterprise and public sector clients
 
 ### Current Focus
 - IBM Data Science Professional Certificate
-- AWS Cloud Practitioner
-- Building data analysis projects to strengthen Python skills
+- Oracle Java Foundations
+- Daily coding exercises in Java and Python
+
+### Projects
+- java-exercises — daily Java practice with JUnit 5 unit tests
+- python-exercises — daily Python practice with pytest
+- data-science-learning — IBM DS coursework and notebooks
 
 ### Tech Stack
-`JavaScript`  `React.js` `C#` `SQL` `AWS` `Git` | **Learning**: `Python` `Pandas` `NumPy` `Scikit-learn`
+`Java` `Python` `SQL` `Git` |
+**Learning**: `Pandas` `NumPy` `Scikit-learn` `PyTorch`
 
 📫 Open to connecting with other developers interested in data-driven development
